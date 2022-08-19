@@ -1,6 +1,6 @@
 # Giới thiệu
 
-**Chào mừng tới Sổ tay Ultimate Frisbee**
+**Chào mừng tới Sổ tay Ultimate Frisbee.**
 
 Sổ tay Ultimate Frisbee là một cuốn sổ tay điện tử nơi mà các bạn có thể tìm thấy những thông tin từ cơ bản đến nâng cao về môn Ultimate Frisbee. Nội dung của cuốn sổ tay được biên soạn bởi các thành viên Fulbright Ultimate Frisbee 2022.
 
