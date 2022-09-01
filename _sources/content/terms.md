@@ -1,22 +1,12 @@
 # Thuật ngữ trong Ultimate
 
 ## Phần 1: Chung
-```{figure} ../media/terms/backhand-grip.png
----
-height: 130px
-figclass: margin
----
-```
 - **Backhand grip**: cách nắm đĩa frisbee khi ném trái tay. Các ngón tay cuộn vào phía dưới vành đĩa, còn ngón tay cái đặt lên phía trên đĩa.
+  - ![backhand grip](../media/terms/backhand-grip.png)
 - **Downfield**: phần sân hướng về phía endzone của đội tấn công theo hướng của người cầm đĩa.
 - **Field sense**: khả năng nhận thức được vị trí của bản thân trên sân so với vị trí của những người chơi còn lại cũng như đường biên của sân.
-```{figure} ../media/terms/forehand-grip.png
----
-height: 130px
-figclass: margin
----
-```
 - **Forehand grip**: cách nắm đĩa frisbee khi ném thuận tay. Ngón trỏ vả ngón giữa duỗi thẳng ra và đặt phía dưới đĩa. Ngón áp út và ngón út đặt và đỡ phía ngoài của đĩa. Ngón tay cái đặt lên phía trên đĩa.
+  - ![forehand grip](../media/terms/forehand-grip.png "forehand grip")
 - **Frisbee**: đĩa nhựa mềm có vành, được thiết kế theo khí động học để có thể bay và xoáy, và có thể bắt bằng tay.
 - **Grip**: cách nắm đĩa frisbee.
 - **Pivot**: kỹ thuật giữ chân trụ của người ném. Người ném có thể xoay người quanh phần đế hoặc ngón chân để nghiêng người hoặc đổi hướng tạo điều kiện để ném.
